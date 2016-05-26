@@ -1,0 +1,6 @@
+c:\users\deb\documents\visual studio 2015\Projects\CupcakeSplitter\CupcakeSplitter\bin\Debug\CupcakeSplitter.exe.config
+c:\users\deb\documents\visual studio 2015\Projects\CupcakeSplitter\CupcakeSplitter\bin\Debug\CupcakeSplitter.exe
+c:\users\deb\documents\visual studio 2015\Projects\CupcakeSplitter\CupcakeSplitter\bin\Debug\CupcakeSplitter.pdb
+c:\users\deb\documents\visual studio 2015\Projects\CupcakeSplitter\CupcakeSplitter\obj\Debug\CupcakeSplitter.csprojResolveAssemblyReference.cache
+c:\users\deb\documents\visual studio 2015\Projects\CupcakeSplitter\CupcakeSplitter\obj\Debug\CupcakeSplitter.exe
+c:\users\deb\documents\visual studio 2015\Projects\CupcakeSplitter\CupcakeSplitter\obj\Debug\CupcakeSplitter.pdb
